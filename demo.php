@@ -1,708 +1,1026 @@
-<?php
+<?php 
 $string = '<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>https://www.rainbowlight.com/our-product</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/digestives</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/feminine-care</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/immune-health</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/bone-health</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/iron</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/protein</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/liver-detox</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/omega-brain-heart-health</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/stress-management</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/womens-health</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/mens-health</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/prenatal-health</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/children-teen-health</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/health-solutions</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/oral-care-breath-freshners</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/vibrance</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/gummy-vitamins</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/probiotics</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/endless-summer-sale</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/mens-essentials</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/vitamins-under-20</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/healthy-aging</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/bestsellers</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/our-product/first-thousand-days</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/calcium-citrate-berry-wellness</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/calcium-citrate-mini-tabs</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/complete-b-complex</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/power-sours-multivitamin-mineral</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/prenatal-daily-duo-prenatal-one-dha</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/35-plus-mom-baby-pre-postnatal-food-based-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/bear-essentials-multivitamin-mineral</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/berry-d-licious-2500-iu-vitamin-d3-gummy</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/brain-focus-multivitamin-for-teens-adults</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/certified-mens-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/certified-prenatal-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/certified-womens-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/complete-iron-mini-tabs</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/fiber-garden-gummies</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/mens-energy-multivitamin-gummy</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/nail-hair-skin-connection</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/nutristart-multivitamin-powder</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/omegalicious-omega-3-gummies</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/prenatal-dha-smart-essentials</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/probio-active</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/probiolicious-probiotic-gummies</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/sunny-gummies-vitamin-d3-400-iu</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/teen-energy-multivitamin-gummy</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/womens-energy-multivitamin-gummy</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/super-c-1000mg</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/black-cohosh-meno-relief</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/50-plus-mini-tablet</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/active-adult-50-plus-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/active-health-teen-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/advanced-enzyme-system</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/counter-attack</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/kids-one-chewable-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/mens-one-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/womens-one-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/food-based-calcium</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/gummy-vitamin-c-slices</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/menopause-one-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/just-once-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/sunny-gummies-vitamin-d3-1000-iu</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/mental-calm</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/mintasuretm-fresh-breath-capsules-1</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/prenatal-petite-mini-tab-multivitamin-conf</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/prenatal-one-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/nutristars-chewable-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/performance-energy-for-men-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/teen-girls-multivitamin-plus-healthy-skin-support</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/prenatal-multivitamin-plus-immune-support</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/young-men-s-multivitamin-plus-healthy-skin-support</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/womens-multivitamin-plus-balance-energy</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/men-s-multivitamin-plus-stress-support</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/womens-multivitamin-plus-stress-support</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/mens-multivitamin-plus-energy-vitality</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/vegan-lean-protein</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/vibrance-pre-conception-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/vibrance-postnatal-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/vibrance-nutristart-plus-multivitamin-powder</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/vibrance-trimester-1-prenatal-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/vibrance-trimester-2-prenatal-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/vibrance-trimester-3-prenatal-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/prenatal-one-non-gmo-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/mens-one-non-gmo-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/womens-one-non-gmo-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/prenatal-precious-gems-non-gmo-gummies</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/active-adult-50-non-gmo-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/probiolicious-plus-non-gmo-gummies</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/magnesium-calcium-plus</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/enable-cookies</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/service-unavailable</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/about/through-transparency-purity-quality</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/about/how-we-care</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/careers</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/faqs</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/home6</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/shopping-online-satisfaction</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/the-company</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/practitioners</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/terms-conditions</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/privacy-security</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/vibrance-teen-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/vibrance-womens-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/vibrance-prenatal-multivitamin</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/limited-time-offer</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/email-offer</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/not-found-404</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/prenatal-vitamins</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/first-thousand-days</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/promotional-disclaimers</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/information-for-retailers</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/retailer-purchase-terms-and-conditions</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/minimum-advertised-pricing-policy</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
-   <url>
-      <loc>https://www.rainbowlight.com/product-survey-thanks</loc>
-      <lastmod>2019-03-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.2</priority>
-   </url>
+<urlset
+<url>
+  <loc>https://www.rainbowlight.com/blog/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/press-releases/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/aging-gracefully/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/aninha-esperanza-livingstone/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/ask-the-nutritionist/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/digestion/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/family-wellness/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/fit-living/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/food-based-vitamins/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/healthy-pregnancy/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/heart-health/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/media-coverage/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/mens-health/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/global-good/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/pregnancy/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/recipes/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/women/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/womens-health/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/5-work-life-balance-tips-busy-moms/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/last-minute-mothers-day-gift-guide-6-creative-ways-honor-mom/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/how-do-you-celebrate-earth-day/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/link-vitamin-d-immune-system/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/seven-natural-ways-boost-immunity/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/artichokes-offer-array-health-benefits/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/march-caffeine-awareness-month-caffeine-offers-benefits-beyond-energy-jolt/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/road-vibrant-health-starts-b-cs/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/golden-milk-boost-immunity-improve-brain-function-2/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/easy-ways-love/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/page/2/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/page/3/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/page/4/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/page/5/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/page/10/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/page/11/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/rainbow-light-vibrance-womens-multivitamin-plus-balance-energy-wins-best-multivitamin-delicious-livings-2017-supplement-awards/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/rainbow-light-featured-regional-television-station/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/rainbow-lights-childrens-gummy-vitamins-featured-november-issue/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/rainbow-lights-bear-essentials-and-pour-sour-gummies-featured-in-suburban-parent-magazine/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/rainbow-lights-mens-womens-energy-gummies-currently-included-in-the-latest-issue-of-the-national-examiner/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/rainbow-light-celebrates-30-years-as-the-leading-natural-prenatal-vitamin-brand/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/rainbow-light-adds-to-best-selling-line-of-prenatal-multivitamins/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/rainbow-light-launches-global-path-to-ecoguard-campaign-to-address-ocean-plastic-crisis/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/new-hope-network-honors-rainbow-light-with-best-mens-health-supplement-award/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/rainbow-light-continues-to-lead-prenatal-vitamin-category-winning-2016-essential-supplement-award/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/press-releases/page/2/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/press-releases/page/3/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/three-steps-healthy-aging/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/inadequate-mineral-intake-causing-blue-mood/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/the-skin-we-are-in/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/100-years-advances-in-womens-healthcare/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/bone-health/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/coq10/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/breast-health/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/11-tips-that-wd-feel-younger/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/energy-at-any-age-vitamin-b-nutrition/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/beauty-and-brain-boosting-vitamins/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/intentional-communication-heal-past-embody-present-shape-future/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/9-nutrition-tips-women-go/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/fat-is-good-for-you/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/teens-need-special-supplements-too/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/power-of-greens-certified-organic-immuno-build-greens/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/pregnancy-myths-facts/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/five-hard-to-digest-foods/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/nutrient-deficient-find-out/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/ask-the-nutritionist/page/2/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/gluten-free-trend-rising-tide-sinking-ship/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/difference-between-probiotics-and-prebiotics/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/digestive-health/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/3-activities-keep-kids-active-winter/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/baby-cold-outside-7-great-tips-help-stay-healthy-winter/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/healthy-last-minute-gift-ideas-holidays/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/5-ways-celebrate-winter-solstice/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/family-wellness/page/2/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/family-wellness/page/3/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/family-wellness/page/4/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/6-ways-simplify-life/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/3-must-haves-healthy-new-year/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/vegan-avocado-black-bean-brownies/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/exercising-during-pregnancy/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/fit-living/page/2/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/fit-living/page/3/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/best-supplements-take/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/best-vitamins-for-your-family/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/boost-babys-brainpower/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/8-essential-nutrients-pregnancy-vibrance-prenatal-multi/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/3-last-minute-healthy-valentines-day-treats/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/3-ways-boost-heart-health/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/seven-ways-improve-hearts-health-making-sing/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/risk-heart-disease-theres-app/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/5-things-improve-heart-health-now/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/eco-conscious-must-haves-just-time-spring/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/prenatal-one-featured-cbs-8-las-vegas-now/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/eco-friendly-products-celebrate-earth-day/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/nutritional-needs-middle-age-beyond/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/global-good/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/nutritional-planning-pregnancy-healthy-child-development/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/how-to-choose-the-right-prenatal-vitamin-for-you/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/trying-to-conceive-in-your-30s/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/the-benefits-of-breastfeeding/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/pregnancy-nutrition-what-to-eat-before-and-during-for-a-healthy-mommy-and-baby/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/go-green-national-green-juice-day/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/vegan-pumpkin-muffins/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/powered-plant-based-pancakes/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/kids/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/health/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/healthy/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/family/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/earth-day/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/ecoguard/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/energy/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/vitamin-d/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/immunity-2/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/vitamins/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/healthy-foods/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/vitamin-b/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/anti-viral/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/coconut-milk/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/exercise-2/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/self-love/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/6-tips-making-healthy-new-years-resolution-success/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/uncategorized/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/page/1/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/healthy-children-happy-holidays/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/make-time-nutrition-holidays/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/6-stress-busting-tips-holidays/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/key-healthy-thanksgiving/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/healthy-families-play-together/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/nutrition-shopping-list/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/from-prenatal-to-teenager-nutritional-supplements-for-optimal-development/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/6-steps-keep-teen-healthy-happy/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/how-to-keep-dad-healthy/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/page/6/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/say-goodbye-new-years-resolutions/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/page/7/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/thought-leader-interview-micronutrient-deficiency-and-depression/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/stress/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/energy/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/rainbow-light-partners-with-5-gyres-and-whole-foods-markets-to-find-solutions-to-plastic-pollution/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/rainbow-light-celebrates-30-years-of-womens-health-with-best-of-beauty-award/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/rlns-raises-the-bar-in-prenatal-leadership-with-best-multivitamin-award/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/rlns-wins-cpg-editors-choice-award-at-informas-supplyside-west/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/rainbow-light-celebrates-25-years-of-prenatal-leadership-with-best-of-supplement-award/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/page/9/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/page/8/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/rainbow-light-partners-with-5-gyres/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/rainbow-light-recognized-as-one-of-the-industrys-best-at-expo-west/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/leadership-initiative-translates-to-double-digit-growth/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/circle-of-care-program-celebrates-30-years-of-corporate-social-responsibility/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/introducing-the-first-and-only-prenatal-multivitamin-for-women-over-35-embrace-prenatal-35/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/gummies/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/multivitamins/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/new-rainbow-light-gummy-formulas-deliver-potent-yet-tasty-nutritional-support-for-consumers-with-pill-fatigue/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/press-releases/page/1/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/healthy-aging/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/health-tips-2/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/healthy-mind/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/minerals/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/nutrition/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/womens-health/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/ask-the-nutritionist/page/1/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/digestion/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/digestive-health/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/bone-health/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/seasonal-wellness/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/family-nutrition/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/fitness/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/family-wellness/page/1/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/apple-day-strategy-help-increase-energy-improve-focus-pave-way-optimal-health/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/simple-steps-bounce-back-cold-flu/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/vaginal-versusbys-microbiome/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/spirulina-benefits-and-research/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tips-for-keeping-your-children-healthy-during-school-year/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/vegan/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/pregnancy/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/know-vitamin-k/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/7-simple-strategu-stay-energized/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/three-simple-steps-to-delicious-smoothies/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/category/fit-living/page/1/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/prenatal-care-2/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/heart/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/diet/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/women/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/recipes/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/vegan-lean-protein/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/pancakes/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/health/page/2/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/vitamins/page/2/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/daily-wellness/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/official-rules-rainbow-light-holiday-tradition/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/rainbow-light-read-book-giveaway/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/childrens-vitamins/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/stress/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/healthy-kids/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/mens-health-2/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/men/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/resolutions/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/gratitude/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/nutrition/page/2/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/family-nutrition/page/2/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/pickles/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/health/page/1/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/vitamins/page/1/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/nutrition/page/1/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://www.rainbowlight.com/blog/tag/family-nutrition/page/1/</loc>
+  <lastmod>2019-04-01T07:20:16+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
 </urlset>';
 
 preg_match_all('#\bhttps?://[^,\s()<>]+(?:\([\w\d]+\)|([^,[:punct:]\s]|/))#', $string, $match);
